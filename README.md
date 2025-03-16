@@ -9,7 +9,7 @@
 
 <!-- Tech Stack -->
 <div align="center">
-<h2>🚀 Tech Stack</h2>
+<h3>🚀 Tech Stack</h3>
 
 <!-- frontend -->
 <div>
@@ -48,7 +48,7 @@
 <br>
 
 <!-- UI/UX -->
-<h2>🎨 UI/UX Design</h2>
+<h3>🎨 UI/UX Design</h3>
 <div>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
@@ -58,7 +58,7 @@
 <br>
 
 <!-- Tools -->
-<h2>🔨 Tools</h2>
+<h3>🔨 Tools</h3>
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -75,7 +75,7 @@
 <br>
 
 <!-- Now Studying -->
-<h2>📖 Now Studying</h2>
+<h3>📖 Now Studying</h3>
 <p>💡 <strong>I am currently studying and deploying SSR with Next.js, Yarn, and Vercel.</strong></p>
 <p>Optimizing <strong>SEO performance, page speed, and automated deployment pipelines.</strong></p>
 
@@ -85,4 +85,14 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
 
+</div>
+
+<br><br>
+
+<!-- GitHub Stats (가운데 정렬) -->
+<div align="center">
+    <div style="display: flex; align-items: flex-start; justify-content: center; gap: 10px;">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=jung-jinyoung&show_icons=true&rank_icon=github&custom_title=JungJinyoung%27s%20GitHub%20Stats" />
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jung-jinyoung&layout=compact&langs_count=6&card_width=250" />
+    </div>
 </div>
