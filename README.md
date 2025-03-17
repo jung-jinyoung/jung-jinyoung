@@ -1,10 +1,9 @@
 <!-- header -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=320&color=gradient&customColorList=12&text=Jung%20Jinyoung%20%7C%20Frontend%20Dev&desc=GitHub%20Portfolio&fontSize=40&fontAlignY=50&animation=fadeIn&descAlign=50&descAlignY=62" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&customColorList=12&text=Jung%20Jinyoung%20%7C%20Frontend%20Dev&desc=GitHub%20Portfolio&fontSize=40&fontAlignY=50&animation=fadeIn&descAlign=50&descAlignY=70" />
 </div>
 
 <br>
-
 <br>
 
 <!-- Tech Stack -->
@@ -90,9 +89,9 @@
 <br><br>
 
 <!-- GitHub Stats (가운데 정렬) -->
-<div align="center">
+<!-- <div align="center">
     <div style="display: flex; align-items: flex-start; justify-content: center; gap: 10px;">
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=jung-jinyoung&show_icons=true&rank_icon=github&custom_title=JungJinyoung%27s%20GitHub%20Stats" />
         <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jung-jinyoung&layout=compact&langs_count=6&card_width=250" />
     </div>
-</div>
+</div> -->
